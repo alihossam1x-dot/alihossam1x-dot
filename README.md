@@ -56,11 +56,9 @@ Testing and analyzing electrical circuits using simulation tools.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alihossam1x-dot&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+![Stats](https://github-readme-stats.vercel.app/api?username=alihossam1x-dot&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alihossam1x-dot&layout=compact&theme=tokyonight&cache_seconds=1800)
-
----
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alihossam1x-dot&layout=compact)
 
 ## 👀 Profile Views
 
