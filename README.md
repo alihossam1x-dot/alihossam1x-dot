@@ -11,10 +11,10 @@
 
 ## 🚀 About Me
 - 🧠 Interested in **Classical Control Systems**
-- ⚙️ Learning **system modeling and analysis**
-- 🔌 Working on improving my skills in **circuit design and electrical projects**
-- 📐 Currently working on **PCB design projects and layout practice**
-- 📊 Focused on building a strong engineering foundation
+- ⚙️ Learning system modeling and analysis
+- 🔌 Improving my skills in circuit design and electrical projects
+- 📐 Working on PCB design practice
+- 📊 Building a strong engineering foundation
 
 ---
 
@@ -29,14 +29,14 @@
 - Electrical Engineering Fundamentals
 
 ### 🔧 Hardware & Design
-- PCB Design (in progress / hands-on practice)
+- PCB Design (KiCad / EasyEDA)
 - Electronic Circuit Design
 
 ### 🧰 Tools
 - MATLAB / Simulink (learning)
 - Proteus
-- KiCad / Easy eda (PCB design practice)
-- Arduino IDE (exploring)
+- KiCad / EasyEDA
+- Arduino IDE
 - Git & GitHub
 
 ---
@@ -44,21 +44,21 @@
 ## 📌 Projects
 
 ### 🔹 Control Systems Practice
-Solving and analyzing control system problems and transfer functions.
+Solving and analyzing transfer functions and control problems.
 
 ### 🔹 PCB Design Practice
-Working on PCB layouts and schematic design for basic electronic circuits.
+Designing and simulating PCB layouts for basic circuits.
 
-### 🔹 Electrical Circuit Simulations
-Simulation and analysis of basic electrical circuits using engineering tools.
+### 🔹 Circuit Simulation
+Testing and analyzing electrical circuits using simulation tools.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alihossam1x-dot&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alihossam1x-dot&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alihossam1x-dot&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alihossam1x-dot&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
