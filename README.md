@@ -21,7 +21,7 @@
 ## 🛠️ Technical Skills
 
 ### 💻 Programming
-- C / C++ (basic level)
+- C / C++
 
 ### ⚙️ Engineering Fundamentals
 - Control Systems (Basics)
@@ -35,7 +35,7 @@
 ### 🧰 Tools
 - MATLAB / Simulink (learning)
 - Proteus
-- KiCad / Altium Designer (PCB design practice)
+- KiCad / Easy eda (PCB design practice)
 - Arduino IDE (exploring)
 - Git & GitHub
 
