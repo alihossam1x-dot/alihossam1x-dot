@@ -60,12 +60,10 @@ Testing and analyzing electrical circuits using simulation tools.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alihossam1x-dot&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihossam1x-dot&layout=compact&theme=tokyonight" />
-</p>
-
----
+- 📌 Public Repos: Check profile
+- ⭐ Contributions: Active
+- 💻 Languages: C / C++
+- 🔧 Focus: Control Systems & PCB Design
 
 ## 👀 Profile Views
 
