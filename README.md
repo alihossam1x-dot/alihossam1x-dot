@@ -64,6 +64,10 @@ Testing and analyzing electrical circuits using simulation tools.
 - ⭐ Contributions: Active
 - 💻 Languages: C / C++
 - 🔧 Focus: Control Systems & PCB Design
+  
+- ## 📈 Contribution Activity
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alihossam1x-dot&theme=algolia)
 
 ## 👀 Profile Views
 
