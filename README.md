@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Electrical+Engineering+Student+⚡;Control+Systems+Enthusiast+🎯;PCB+Design+%7C+Automation+%7C+Embedded+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Mechatronics+Engineering+Student+🤖;Control+Systems+Enthusiast+🎯;PCB+Design+%7C+Automation+%7C+Embedded+Systems" />
 </p>
 
 # Hi there 👋 I'm Ali Hossam
 
-🎯 Electrical Engineering Student | Control Systems Enthusiast  
-⚡ Interested in Control Systems, Automation, and Electrical Design  
+🎯 Mechatronics Engineering Student | Control Systems Enthusiast  
+🤖 Interested in Control Systems, Automation, and Electrical Design  
 🔧 Passionate about understanding engineering systems and building practical solutions  
 
 📫 Email: **gawad7772@gmail.com**  
@@ -30,7 +30,7 @@
 ### ⚙️ Engineering Fundamentals
 - Control Systems (Basics)
 - Circuit Analysis
-- Electrical Engineering Fundamentals
+- Mechatronics Engineering Fundamentals
 
 ### 🔧 Hardware & Design
 - PCB Design (KiCad / EasyEDA)
